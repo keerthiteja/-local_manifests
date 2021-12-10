@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/oneplus/dumpling" name="keerthiteja/android_device_oneplus_dumpling" remote="github" revision="lineage-18.1" />
-  <project path="device/oneplus/cheeseburger" name="keerthiteja/android_device_oneplus_cheeseburger" remote="github" revision="lineage-18.1" />
-  <project path="device/oneplus/msm8998-common" name="keerthiteja/android_device_oneplus_msm8998-common" remote="github" revision="lineage-18.1" />
+  <project path="device/oneplus/dumpling" name="keerthiteja/android_device_oneplus_dumpling" remote="github" revision="flos-11" />
+  <project path="device/oneplus/cheeseburger" name="keerthiteja/android_device_oneplus_cheeseburger" remote="github" revision="flos-11" />
+  <project path="device/oneplus/msm8998-common" name="keerthiteja/android_device_oneplus_msm8998-common" remote="github" revision="flos-11" />
   <project path="kernel/oneplus/msm8998" name="keerthiteja/android_kernel_oneplus_msm8998" remote="github" revision="lineage-18.1" />
   <project path="device/oppo/common" name="keerthiteja/android_device_oppo_common" remote="github" revision="lineage-18.1" />
   <project path="vendor/oneplus" name="keerthiteja/proprietary_vendor_oneplus" remote="github" revision="lineage-18.1" />
