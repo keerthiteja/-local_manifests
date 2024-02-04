@@ -3,6 +3,5 @@
   <project path="device/motorola/berlin" name="keerthiteja/android_device_motorola_berlin" remote="github" revision="lineage-21" />
   <project path="device/motorola/sm7325-common" name="keerthiteja/android_device_motorola_sm7325-common" remote="github" revision="lineage-21" />
   <project path="kernel/motorola/sm7325" name="keerthiteja/android_kernel_motorola_sm7325" remote="github" revision="lineage-21" />
-  <project path="vendor/motorola" name="keerthiteja/proprietary_vendor_motorola" remote="github" revision="lineage-21" />
   <project path="hardware/motorola" name="keerthiteja/android_hardware_motorola" remote="github" revision="lineage-21" />
 </manifest>
