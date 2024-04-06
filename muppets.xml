@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="gitlab" fetch="https://gitlab.com" />
-  <project name="The-Muppets/proprietary_vendor_motorola_berlin" path="vendor/motorola/berlin" remote="gitlab" revision="lineage-21" clone-depth="1" />
-  <project name="The-Muppets/proprietary_vendor_motorola_sm7325-common" path="vendor/motorola/sm7325-common" remote="gitlab" revision="lineage-21" clone-depth="1" />
+  <project name="The-Muppets/proprietary_vendor_motorola_berlin" path="vendor/motorola/berlin" remote="gitlab" revision="lineage-21" />
+  <project name="The-Muppets/proprietary_vendor_motorola_sm7325-common" path="vendor/motorola/sm7325-common" remote="gitlab" revision="lineage-21" />
 </manifest>
   
